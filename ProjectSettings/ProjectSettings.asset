@@ -767,8 +767,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: City_Car_Racing
-  metroPackageVersion: 
+  metroPackageName: CityCarRacing
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -776,7 +776,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: City_Car_Racing
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: City_Car_Racing
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -844,7 +844,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: b4ff330b-5cd1-4119-9a90-b57db8ee83e9
   framebufferDepthMemorylessMode: 0
