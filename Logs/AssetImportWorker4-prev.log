@@ -1,0 +1,291 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.45f1 (d91bd3d4e081) revision 14228435'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 16202 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.45f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/ASUS/Downloads/Workspace/Unity Project/City_Car_Racing/City_Car_Racing
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+1280
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/ASUS/Downloads/Workspace/Unity Project/City_Car_Racing/City_Car_Racing
+C:/Users/ASUS/Downloads/Workspace/Unity Project/City_Car_Racing/City_Car_Racing
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [9840]  Target information:
+
+Player connection [9840]  * "[IP] 192.168.150.52 [Port] 0 [Flags] 2 [Guid] 1092607042 [EditorId] 1092607042 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-GO94N5E) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9840] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9840] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.45f1 (d91bd3d4e081)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ASUS/Downloads/Workspace/Unity Project/City_Car_Racing/City_Car_Racing/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28e0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.7216
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.45f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.004646 seconds.
+- Loaded All Assemblies, in  0.385 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 251 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.605 seconds
+Domain Reload Profiling: 988ms
+	BeginReloadAssembly (124ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (160ms)
+		LoadAssemblies (122ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (156ms)
+			TypeCache.Refresh (154ms)
+				TypeCache.ScanAssembly (141ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (605ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (566ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (332ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (117ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.635 seconds
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.561 seconds
+Domain Reload Profiling: 1191ms
+	BeginReloadAssembly (159ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (389ms)
+		LoadAssemblies (292ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (150ms)
+				TypeCache.ScanAssembly (137ms)
+			BuildScriptInfoCaches (29ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (561ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (452ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (80ms)
+			ProcessInitializeOnLoadAttributes (320ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3811 unused Assets / (1.4 MB). Loaded Objects now: 4307.
+Memory consumption went from 84.9 MB to 83.5 MB.
+Total: 11.884200 ms (FindLiveObjects: 0.967700 ms CreateObjectMapping: 0.883200 ms MarkObjects: 7.580000 ms  DeleteObjects: 2.450700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8911.731780 seconds.
+  path: Assets/8FastCars/Materials/Megan_Mirror.mat
+  artifactKey: Guid(8994af8a10fec6a46af17f790dc7db80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Megan_Mirror.mat using Guid(8994af8a10fec6a46af17f790dc7db80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '238028005cc5b5a8775d931157e4d8da') in 0.1121019 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 281.167051 seconds.
+  path: Assets/InputSystem_Actions.inputactions
+  artifactKey: Guid(289c1b55c9541489481df5cc06664110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InputSystem_Actions.inputactions using Guid(289c1b55c9541489481df5cc06664110) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7e9e64a58fecfdcde77304e1331e7f3') in 0.0059687 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.415583 seconds.
+  path: Assets/8FastCars/Materials/Stranger_wheel.mat
+  artifactKey: Guid(d7fd7a9c95151204d83eeb99853ae613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Stranger_wheel.mat using Guid(d7fd7a9c95151204d83eeb99853ae613) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ac3fb7f2f8ec619fe543a2a800fcec1') in 0.0081207 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003999 seconds.
+  path: Assets/8FastCars/Materials/Thunder_chrome.mat
+  artifactKey: Guid(dd01780a8a95aae468266b57639661ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Thunder_chrome.mat using Guid(dd01780a8a95aae468266b57639661ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c6e176f4c393e45c7ac0fdb3dd3a6725') in 0.0087729 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003285 seconds.
+  path: Assets/8FastCars/Materials/Thunder_mirror.mat
+  artifactKey: Guid(762c02f0614ff1e40bfd456421f0345c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Thunder_mirror.mat using Guid(762c02f0614ff1e40bfd456421f0345c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '457765cd8578a9612eab0bde2bd01311') in 0.0077051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/8FastCars/Materials/Zegato_base.mat
+  artifactKey: Guid(1e3dcc3837452b44abe8208d75de9688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Zegato_base.mat using Guid(1e3dcc3837452b44abe8208d75de9688) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d5852fafa18edd62873aacca63fc546') in 0.0074967 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/8FastCars/Materials/Thunder_wheel.mat
+  artifactKey: Guid(0944df727b752104d9c750caf6ef6c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Thunder_wheel.mat using Guid(0944df727b752104d9c750caf6ef6c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd16f80cdad3bd4ba1d282cf0c655004') in 0.015287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/8FastCars/Materials/Thunder_glass.mat
+  artifactKey: Guid(71c36c5b4ee67a444aef2f55a9c7bb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Thunder_glass.mat using Guid(71c36c5b4ee67a444aef2f55a9c7bb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '07a7b39b6bec9242b2cd1a8538af2940') in 0.0085947 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/8FastCars/Materials/Thunder_tyre.mat
+  artifactKey: Guid(8777de1d5dd040c40a9187a05b40761e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Thunder_tyre.mat using Guid(8777de1d5dd040c40a9187a05b40761e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3affb842e65fb82680c9faaa20596930') in 0.0109928 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.674471 seconds.
+  path: Assets/8FastCars/Materials/Zegato_detail.mat
+  artifactKey: Guid(7605bcedf5b0ec049b94e2824a0002af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Zegato_detail.mat using Guid(7605bcedf5b0ec049b94e2824a0002af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3fdde1127c9496ea6047481485c3232b') in 0.0075156 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/8FastCars/Materials/Zegato_tyre.mat
+  artifactKey: Guid(c9a5bb6b74a39fa46831ab8b809cda60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Zegato_tyre.mat using Guid(c9a5bb6b74a39fa46831ab8b809cda60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d7399d43956edae962d8b70eb01374f') in 0.0071606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/8FastCars/Materials/Zegato_interior.mat
+  artifactKey: Guid(170f22547f05cfd47a1d17a52446af75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8FastCars/Materials/Zegato_interior.mat using Guid(170f22547f05cfd47a1d17a52446af75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c40599a7fc2cc91a288a9af67bce2111') in 0.0065386 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
